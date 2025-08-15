@@ -1,9 +1,10 @@
 # 👨‍💻 Marcos Silva
 
-**`Desenvolvedor FrontEnd`**
+**`Desenvolvedor`**
 
-Me chamo Marcos Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, estou no terceiro semestre de Análise e Desenvolvimento de Sistemas na USCS. Sou um entusiasta da tecnologia, sempre buscando aprender e explorar novas soluções no mundo da programação e inovação.
-
+Me chamo Marcos Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, estou no quarto semestre de Análise e Desenvolvimento de Sistemas na USCS. Sou um entusiasta da tecnologia, sempre buscando aprender e explorar novas soluções no mundo da programação e inovação.
+<br>
+<br>
 <p align="left">
     <a href="https://www.linkedin.com/in/1marcosilva/" target="_blank" title="Conecte-se comigo">
         <img 
@@ -21,34 +22,8 @@ Me chamo Marcos Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, es
 </p>
 
 ### 🤖 Linguagens e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,figma,notion)](https://skillicons.dev)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
