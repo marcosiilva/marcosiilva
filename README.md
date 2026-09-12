@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Marcos Silva e sou natural de São Paulo. Sou graduado em Análise e Desenvolvimento de Sistemas pela USCS e atualmente curso Bacharelado em Ciência da Computação na Anhembi Morumbi. Atuo hoje na TIM Brasil, no time de Infrastructure & Support, e sou entusiasta de tecnologia, sempre buscando aprender e explorar novas soluções no mundo da programação e da automação.
+Me chamo Marcos Silva, tenho 21 anos e sou natural de Santo André. Sou graduado em Análise e Desenvolvimento de Sistemas pela USCS e atualmente curso Bacharelado em Ciência da Computação na Anhembi Morumbi. Atuo hoje na TIM Brasil, no time de Infrastructure & Support, e sou entusiasta de tecnologia, sempre buscando aprender e explorar novas soluções no mundo da programação e da automação.
 <br>
 <br>
 <p align="left">
