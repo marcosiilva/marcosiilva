@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Marcos Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, estou no quarto semestre de Análise e Desenvolvimento de Sistemas na USCS. Sou um entusiasta da tecnologia, sempre buscando aprender e explorar novas soluções no mundo da programação e inovação.
+Me chamo Marcos Silva e sou natural de São Paulo. Sou graduado em Análise e Desenvolvimento de Sistemas pela USCS e atualmente curso Bacharelado em Ciência da Computação na Anhembi Morumbi. Atuo hoje na TIM Brasil, no time de Infrastructure & Support, e sou entusiasta de tecnologia, sempre buscando aprender e explorar novas soluções no mundo da programação e da automação.
 <br>
 <br>
 <p align="left">
@@ -24,13 +24,13 @@ Me chamo Marcos Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, es
 ---
 
 ### 🤖 Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,git,github,notion,figma)](https://skillicons.dev)
 <p> 
   <img
         align="center"
-        alt="GitHub Stats"
+        alt="Top Langs"
         height="150"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosiilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3"
+        src="https://github-readme-stats-rho-eight.vercel.app/api/top-langs/?username=marcosiilva&theme=tokyonight&layout=compact&langs_count=6"
     />
 </p>
 
@@ -43,10 +43,6 @@ Me chamo Marcos Silva, tenho 20 anos e sou natural de São Paulo. Atualmente, es
         align="left"
         alt="GitHub Stats"
         height="170"
-        style="padding-right: 20px;"
-        src="https://github-readme-stats.vercel.app/api?username=marcosiilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats-rho-eight.vercel.app/api?username=marcosiilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
     />
-
-
-    
 </p>
